@@ -20,12 +20,12 @@ The pipeplines were build based on the [immcantation](https://immcantation.readt
 ### Available pipelines:
 
 
-- [pipline1 Stern2014](https://presto.readthedocs.io/en/stable/workflows/Stern2014_Workflow.html) - UMI Barcoded Illumina MiSeq 2x250 BCR mRNA
+- [pipline1](https://github.com/yaarilab/pipeline1) - [Stern2014](https://presto.readthedocs.io/en/stable/workflows/Stern2014_Workflow.html) - UMI Barcoded Illumina MiSeq 2x250 BCR mRNA
 - [pipline2](https://github.com/yaarilab/pipeline2) - [Greiff2014](https://presto.readthedocs.io/en/stable/workflows/Greiff2014_Workflow.html) - Illumina MiSeq 2x250 BCR mRNA
-- [pipline3 - VanderHeiden2017](https://presto.readthedocs.io/en/stable/workflows/VanderHeiden2017_Workflow.html) - UMI Barcoded Illumina MiSeq 325+275 paired-end 5’RACE BCR mRNA
-- [pipline4 - Galson2020](https://www.frontiersin.org/articles/10.3389/fimmu.2020.605170/full) - UMI Barcoded Illumina MiSeq 2x300 BCR mRNA with FR1 primers
-- [Yaari1](https://bitbucket.org/yaarilab/processpipeline/src/master/pre_process/Pipeline_P1.sh) - 5'RACE UMI barcoded Illumina Miseq 2x300 pair-end
-- [Yaari2](https://bitbucket.org/yaarilab/processpipeline/src/master/pre_process/Pipeline_P11.sh) - 5'RACE M1S and Z tags to sample pair-end reads
+- [pipline3](https://github.com/yaarilab/pipeline3) - [VanderHeiden2017](https://presto.readthedocs.io/en/stable/workflows/VanderHeiden2017_Workflow.html) - UMI Barcoded Illumina MiSeq 325+275 paired-end 5’RACE BCR mRNA
+- [pipline4](https://github.com/yaarilab/pipeline4) - [Galson2020](https://www.frontiersin.org/articles/10.3389/fimmu.2020.605170/full) - UMI Barcoded Illumina MiSeq 2x300 BCR mRNA with FR1 primers
+- [pipline5](https://github.com/yaarilab/pipeline5) - [Yaari1](https://bitbucket.org/yaarilab/processpipeline/src/master/pre_process/Pipeline_P1.sh) - 5'RACE UMI barcoded Illumina Miseq 2x300 pair-end
+- [pipline6](https://github.com/yaarilab/pipeline6) - [Yaari2](https://bitbucket.org/yaarilab/processpipeline/src/master/pre_process/Pipeline_P11.sh) - 5'RACE M1S and Z tags to sample pair-end reads
 
 ## Downstream analysis
 
